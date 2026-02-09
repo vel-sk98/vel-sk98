@@ -7,7 +7,7 @@ Frontend Developer • React • Clean UIs • Thoughtful code
 
 ### 🚀 About Me
 <p align="justify">
-I’m Sasikumar, a frontend developer working with React and JavaScript to build
+A frontend developer working with React and JavaScript to build
 clean, scalable user interfaces. I enjoy simplifying complex UI logic, structuring
 components effectively, and turning product ideas into intuitive web experiences.
 </p>
