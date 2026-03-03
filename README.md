@@ -14,27 +14,32 @@ I focus on writing clean, structured code and designing reusable components that
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-### Frontend
-- React.js, JavaScript (ES6+), TypeScript  
-- HTML5, CSS3, Responsive Design  
-- React Router  
-- State Management: Redux, Redux Thunk, Redux Saga, Zustand  
+### 🚀 Frontend Technologies
+- React.js, Next.js  
+- TypeScript, JavaScript (ES6+)  
+- HTML5, CSS3  
+- Tailwind CSS, shadcn/ui  
 
-### Data & API Handling
+### 🧠 State Management
+- Redux  
+- Zustand  
+- Context API  
+- React Hooks  
+
+### 🔄 API & Data Handling
 - REST API Integration  
-- Server-side & API-driven pagination  
-- Async flows and predictable state updates  
-- Data fetching & caching with TanStack Query  
+- Asynchronous Data Fetching  
+- Client–Server Communication  
+- TanStack Query (React Query)  
+- Axios  
 
-### UI & Styling
-- Tailwind CSS  
-- shadcn/ui  
-- Ant Design, Syncfusion  
-- Bootstrap  
-- Component-driven development  
-
+### 📦 Packages & Utilities
+- React Router  
+- Redux Thunk  
+- Day.js
+  
 ---
 
 ## 🌱 Currently Exploring
