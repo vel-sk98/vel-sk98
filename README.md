@@ -8,9 +8,11 @@ Frontend Developer • React • JS • Clean UIs • Thoughtful Code
 
 ## 🚀 About Me
 
-Frontend developer with 3+ years of experience building scalable and maintainable applications using React and JavaScript.
+Frontend Engineer specializing in building scalable, high-performance user interfaces using React.js, Next.js, and TypeScript. Skilled in architecting maintainable, component-driven systems and developing reusable front-end libraries that support long-term efficiency and scalability.
 
-I focus on writing clean, structured code and designing reusable components that make complex UI logic simple. I care about performance, frontend architecture, and the small technical decisions that improve long-term product quality.
+Focused on writing clean, structured code and simplifying complex UI logic through thoughtful design patterns. Experienced in translating complex business requirements and Figma designs into high-quality, responsive applications optimized for performance across devices.
+
+Strong advocate of frontend architecture, performance optimization, and making sound technical decisions that enhance long-term product quality. Thrive in collaborative Agile environments with a commitment to modern engineering standards and refined user experiences.
 
 ---
 
