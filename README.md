@@ -54,7 +54,7 @@ Strong advocate of frontend architecture, performance optimization, and making s
 ## 📫 Reach Me
 
 - 📧 Email: vel.sasi98@gmail.com  
-- 📄 Resume: [View Resume]((https://drive.google.com/file/d/1QeLHxpz-zEMngdvpU_xnEsYp2Xa21wH-/view?usp=drive_link))  
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1-Dc4yxW5krU9KObE7SyiHo_9NyvAkhh4/view?usp=drive_link) 
 - 🔗 LinkedIn: [linkedin.com/in/sasivel](https://linkedin.com/in/sasivel)
 
 ---
